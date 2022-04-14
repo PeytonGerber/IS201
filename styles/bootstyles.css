@@ -1,0 +1,11 @@
+.header{
+    height:100px;
+    background-color: lightgray;
+    line-height: 100px;
+}
+
+.footer{
+    height:50px;
+    background-color: black;
+    color: white;
+}
